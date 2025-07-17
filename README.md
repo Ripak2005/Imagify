@@ -1,6 +1,6 @@
 # 🖼️ Imagify – AI-Powered Image Generator (MERN SaaS)
 
-Imagify is a full-stack AI SaaS platform that lets users generate stunning images from text prompts using the **Clipdrop text-to-image API**. It features a **credit system**, **user authentication**, and **Stripe integration** for payments — built with the modern **MERN stack**.
+Imagify is a full-stack AI SaaS platform that lets users generate stunning images from text prompts using the **Clipdrop text-to-image API**. It features a **credit system**, **user authentication**, and **Razorpay integration** for payments — built with the modern **MERN stack**.
 
 ---
 
