@@ -14,7 +14,7 @@ Imagify is a full-stack AI SaaS platform that lets users generate stunning image
 
 - 🔐 JWT-based user authentication & protected routes
 - 🧠 Text-to-image generation using Clipdrop API
-- 💳 Stripe payment integration with webhook-based credit top-up
+- 💳 Razorpay payment integration with webhook-based credit top-up
 - 🔄 Credit system: 1 credit = 1 image generation
 - 🕒 Prompt & image history tracking per user
 - 📱 Responsive UI with Tailwind CSS
