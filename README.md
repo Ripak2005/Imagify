@@ -33,14 +33,3 @@ Imagify is a full-stack AI SaaS platform that lets users generate stunning image
 | Payments     | Razorpay API                   |
 | AI API       | Clipdrop API                 |
 | Deployment   | Vercel (Frontend), Render (Backend) |
-
----
-
-## 📂 Project Structure
-imagify/
-├── client/ # React frontend
-│ └── components/
-├── server/ # Node/Express backend
-│ └── routes/, controllers/, middlewares/
-├── .env # Environment variables
-├── README.md
