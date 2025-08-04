@@ -1,4 +1,4 @@
-# 🖼️ Imagify – AI-Powered Image Generator (MERN SaaS) [🌐](https://imagify-ai-image-kappa.vercel.app/)
+# 🖼️ [Imagify](https://imagify-ai-image-kappa.vercel.app/) – AI-Powered Image Generator (MERN SaaS)
 
 Imagify is a full-stack AI SaaS platform that lets users generate stunning images from text prompts using the **Clipdrop text-to-image API**. It features a **credit system**, **user authentication**, and **Razorpay integration** for payments — built with the modern **MERN stack**.
 
