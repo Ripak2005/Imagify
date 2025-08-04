@@ -4,9 +4,8 @@ Imagify is a full-stack AI SaaS platform that lets users generate stunning image
 
 ---
 
-## 📽️ Live Link
 
-[Watch Live](https://imagify-teal-kappa.vercel.app/)
+[🌐](https://imagify-ai-image-kappa.vercel.app/)
 
 ---
 
